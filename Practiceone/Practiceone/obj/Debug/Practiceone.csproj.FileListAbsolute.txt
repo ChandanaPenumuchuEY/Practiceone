@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\Practiceone\Practiceone\bin\Debug\Practiceone.exe.config
+C:\Users\labuser\source\repos\Practiceone\Practiceone\bin\Debug\Practiceone.exe
+C:\Users\labuser\source\repos\Practiceone\Practiceone\bin\Debug\Practiceone.pdb
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.exe
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.pdb
+C:\Users\labuser\source\repos\Practiceone\Practiceone\bin\Debug\Practiceone.exe.manifest
+C:\Users\labuser\source\repos\Practiceone\Practiceone\bin\Debug\Practiceone.application
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.exe.manifest
+C:\Users\labuser\source\repos\Practiceone\Practiceone\obj\Debug\Practiceone.application
