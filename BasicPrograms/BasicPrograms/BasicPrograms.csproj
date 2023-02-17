@@ -73,6 +73,7 @@
   <ItemGroup>
     <Compile Include="Addstudent.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="constructors.cs" />
     <Compile Include="doapp2.cs" />
     <Compile Include="loop1.cs" />
     <Compile Include="namespaaceclass.cs" />
