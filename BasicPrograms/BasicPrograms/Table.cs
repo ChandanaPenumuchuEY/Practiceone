@@ -14,7 +14,7 @@
 //            int i = int.Parse(Console.ReadLine());
 //            int x;
 //            Console.WriteLine(i + " table is : ");
-//            for(x=1;x<=10;x++)
+//            for (x = 1; x <= 10; x++)
 //            {
 //                Console.WriteLine(i + " X " + x + "  = " + (i * x));
 //            }
