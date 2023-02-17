@@ -30,10 +30,12 @@ namespace BasicPrograms
             b3.bid = 3;
             b3.bname = "you are all i need";
             b3.bcost = 400;
+            Console.WriteLine("BOOOKSSSSSSSSSSSSSSSSSSS");
             Console.WriteLine("BOOK DETAILS - " + b1.bid + " \n Name : " + b1.bname + " \n cost : " + b1.bcost);
             Console.WriteLine("BOOK DETAILS - " + b2.bid + " \n Name : " + b2.bname + " \n cost : " + b2.bcost);
             Console.WriteLine("BOOK DETAILS - " + b3.bid + " \n Name : " + b3.bname + " \n cost : " + b3.bcost);
             Console.ReadLine();
+
         }
     }
 }
