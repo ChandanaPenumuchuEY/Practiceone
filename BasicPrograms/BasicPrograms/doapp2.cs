@@ -50,6 +50,13 @@ namespace BasicPrograms
                 i--;
 
             } while (i >= 1);
+            String[] x = { "one", "two", "three" };
+            foreach(String s  in x)
+            {
+                Console.WriteLine(s);
+            }
+
+
             Console.ReadLine();
         }
     }
