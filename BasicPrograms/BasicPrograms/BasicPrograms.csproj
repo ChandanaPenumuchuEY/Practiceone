@@ -44,9 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="loop1.cs" />
     <Compile Include="namespaaceclass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Table.cs" />
+    <Compile Include="whileloop.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
