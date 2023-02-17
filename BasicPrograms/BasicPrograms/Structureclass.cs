@@ -13,11 +13,25 @@ namespace BasicPrograms
             public string bname;
             public int bcost;
         }
-
+    struct school
+    {
+        public void func1()
+        {
+            Console.WriteLine("MY SCHOOL NAME IS LFS");
+        }
+        public static void func2()
+        {
+            Console.WriteLine("MY name chandana");
+        }
+    }
     class Structureclass
     {
         static void Main(string[] args)
         {
+            school s1 = new school();
+            s1.func1();
+            school.func2();
+
             Book b1 = new Book();
             b1.bid = 1;
             b1.bname = "it ends with us";
