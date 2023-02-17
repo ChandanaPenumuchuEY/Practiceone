@@ -1,0 +1,7 @@
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Users\labuser\source\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.pdb
