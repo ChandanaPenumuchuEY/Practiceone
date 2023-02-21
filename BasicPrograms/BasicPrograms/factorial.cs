@@ -6,13 +6,17 @@
 
 //namespace BasicPrograms
 //{
-//    class practiceeeee
+//    class factorial
 //    {
 //        static void Main(string[] args)
 //        {
-//            int x = 176576;
-//           int y =x > 100 ?x : 100;
-//            Console.WriteLine(y);
+//            int n = int.Parse(Console.ReadLine());
+//            int i,fact=1;
+//            for(i=1;i<=n;i++)
+//            {
+//                fact = fact * i;
+//            }
+//            Console.WriteLine("factorial is : " + fact);
 //            Console.ReadLine();
 //        }
 //    }
