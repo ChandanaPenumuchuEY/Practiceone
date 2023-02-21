@@ -72,16 +72,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Addstudent.cs" />
+    <Compile Include="boxun.cs" />
+    <Compile Include="calci.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="constructors.cs" />
     <Compile Include="day5.cs" />
     <Compile Include="doapp2.cs" />
     <Compile Include="dynamiccprgm.cs" />
+    <Compile Include="gotolabel.cs" />
     <Compile Include="isas.cs" />
     <Compile Include="loop1.cs" />
     <Compile Include="namespaaceclass.cs" />
     <Compile Include="objectas.cs" />
     <Compile Include="Oopsconcepts.cs" />
+    <Compile Include="practicee5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structureclass.cs" />
