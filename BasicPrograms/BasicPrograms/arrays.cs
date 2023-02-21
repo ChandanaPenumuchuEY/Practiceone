@@ -6,13 +6,16 @@
 
 //namespace BasicPrograms
 //{
-//    class practiceeeee
+//    class arrays
 //    {
 //        static void Main(string[] args)
 //        {
-//            int x = 176576;
-//            int y = x > 100 ? x : 100;
-//            Console.WriteLine(y);
+//            int[] a = new int[5];
+//            int []b= { 1, 2, 3, 4, 5 };
+//            foreach(int i in b)
+//            {
+//                Console.WriteLine(i);
+//            }
 //            Console.ReadLine();
 //        }
 //    }

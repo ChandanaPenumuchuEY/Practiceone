@@ -15,11 +15,11 @@
 //            Console.WriteLine("label 1");
 //            goto gotolabel2;
 
-//            if (x==0)
+//            if (x == 0)
 //            {
 //                goto gotolabel1;
 //            }
-        
+
 
 //        gotolabel2:
 //            Console.WriteLine("jlabel 2");

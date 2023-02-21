@@ -11,7 +11,7 @@
 //        static void Main(string[] args)
 //        {
 //            string ch = "yes";
-//            while((ch=="yes" || ch== "Y"|| ch=="YES" || ch=="y")&&(ch!="no" || ch!="NO" || ch!="n"|| ch!="N"))
+//            while ((ch == "yes" || ch == "Y" || ch == "YES" || ch == "y") && (ch != "no" || ch != "NO" || ch != "n" || ch != "N"))
 //            {
 //                Console.WriteLine("ENTER FIRST NUMBER   : ");
 //                int a = int.Parse(Console.ReadLine());
@@ -24,25 +24,25 @@
 //                {
 //                    case '+':
 //                        res = a + b; ;
-//                        Console.WriteLine("RESULT"+res);
+//                        Console.WriteLine("RESULT" + res);
 //                        break;
 //                    case '-':
 //                        res = a - b; ;
-//                        Console.WriteLine("RESULT"+res);
+//                        Console.WriteLine("RESULT" + res);
 //                        break;
 //                    case '*':
 //                        res = a * b; ;
-//                        Console.WriteLine("RESULT"+res);
+//                        Console.WriteLine("RESULT" + res);
 //                        break;
 //                    case '/':
-//                        res = a /b; ;
-//                        Console.WriteLine("RESULT"+res);
+//                        res = a / b; ;
+//                        Console.WriteLine("RESULT" + res);
 //                        break;
 //                    case '%':
 //                        res = a % b; ;
-//                        Console.WriteLine("RESULT"+res);
+//                        Console.WriteLine("RESULT" + res);
 //                        break;
-//                   default:
+//                    default:
 //                        Console.WriteLine("enter correct operator");
 //                        break;
 

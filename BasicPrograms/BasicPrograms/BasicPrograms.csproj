@@ -72,6 +72,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Addstudent.cs" />
+    <Compile Include="arrays.cs" />
+    <Compile Include="arraysum.cs" />
     <Compile Include="boxun.cs" />
     <Compile Include="calci.cs" />
     <Compile Include="Class1.cs" />
@@ -94,6 +96,7 @@
     <Compile Include="Structureclass.cs" />
     <Compile Include="Table.cs" />
     <Compile Include="thiskeyword.cs" />
+    <Compile Include="twodimesionarray.cs" />
     <Compile Include="whileloop.cs" />
   </ItemGroup>
   <ItemGroup>
