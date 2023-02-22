@@ -1,0 +1,25 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+using System.Collections;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        ArrayList a = new ArrayList();
+        a.Add(547);
+        a.Add(12);
+        a.Add(45);
+        a.Sort();
+        a.Remove(45);
+        a.RemoveAt(1);
+        foreach(var x in a)
+        {
+            Console.WriteLine(x+"  ");
+        }
+     
+        
+    }
+}
