@@ -1,0 +1,30 @@
+// Online C# Editor for free
+// non generic stack
+
+using System;
+using System.Collections;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Stack s= new Stack(3);
+        s.Push(3);
+        s.Push("chanduuuuuu");
+        s.Push(5);
+        s.Pop();
+        s.Push("mintu");
+        s.Push("honey");
+        s.Push(1.2332);
+        foreach(var x in s)
+        {
+            Console.WriteLine(x+"  ");
+        }
+        s.Clear();
+        foreach(var x in s)
+        {
+            Console.WriteLine(x+"  ");
+        }
+        
+    }
+}
