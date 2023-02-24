@@ -98,6 +98,7 @@
     <Compile Include="palindrome.cs" />
     <Compile Include="practicee5.cs" />
     <Compile Include="practiceeeee.cs" />
+    <Compile Include="practicefile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structureclass.cs" />
