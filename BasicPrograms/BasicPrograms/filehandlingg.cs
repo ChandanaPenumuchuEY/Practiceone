@@ -28,6 +28,18 @@ namespace BasicPrograms
             Console.WriteLine("DRIVE ROOT DIRECTORY"+d.RootDirectory);
             Console.WriteLine("DRIVE TOTAL SIZE"+d.TotalSize);
 
+            Console.WriteLine("**********************************CREATINGGGGG DIRECTORYYYY*********************************");
+            string dct = @"C:\Users\labuser\Desktop\demo2";
+            Directory.CreateDirectory(dct);
+            Directory.CreateDirectory(@"C:\Users\labuser\Desktop\demo1");
+            Directory.CreateDirectory(@"C:\Users\labuser\Desktop\demo3");
+            Directory.Delete(@"C:\Users\labuser\Desktop\demo3");
+            foreach (var dname in Directory.GetFiles(@"C:\Users\labuser\Desktop"))
+            {
+                Console.WriteLine(dname);
+
+            }
+            
             Console.ReadLine();
 
 
