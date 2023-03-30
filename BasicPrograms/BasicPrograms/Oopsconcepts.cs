@@ -33,7 +33,7 @@
 //    }
 //    public class demo2
 //    {
-//       public void func2()
+//        public void func2()
 //        {
 //            Console.WriteLine("fun2 invoked");
 //        }

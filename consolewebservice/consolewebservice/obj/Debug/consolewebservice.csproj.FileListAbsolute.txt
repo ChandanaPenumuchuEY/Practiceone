@@ -1,0 +1,7 @@
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\bin\Debug\consolewebservice.exe.config
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\bin\Debug\consolewebservice.exe
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\bin\Debug\consolewebservice.pdb
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\obj\Debug\consolewebservice.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\obj\Debug\consolewebservice.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\obj\Debug\consolewebservice.exe
+C:\Users\labuser\source\repos\consolewebservice\consolewebservice\obj\Debug\consolewebservice.pdb

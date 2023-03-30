@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\entityfromdbconsole.exe.config
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\entityfromdbconsole.exe
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\entityfromdbconsole.pdb
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\obj\Debug\entityfromdbconsole.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\obj\Debug\entityfromdbconsole.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\obj\Debug\entityfromdbconsole.csproj.CopyComplete
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\obj\Debug\entityfromdbconsole.exe
+C:\Users\labuser\source\repos\entityfromdbconsole\entityfromdbconsole\obj\Debug\entityfromdbconsole.pdb

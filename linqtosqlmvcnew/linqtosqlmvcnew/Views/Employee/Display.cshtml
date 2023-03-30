@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Display";
+}
+<hr>
+<hr>
+<h1>DISPLAY OF EMPLOYEE TABLE</h1>
+<hr>
+<hr>
+@foreach (var s in ViewBag.edata)
+ {
+    <div><b>EID : @s.eid   ENAME : @s.ename  ESALARY :  @s.esalary   EROLE :   @s.erole </b></div>
+        
+   //  Console.WriteLine();
+  }

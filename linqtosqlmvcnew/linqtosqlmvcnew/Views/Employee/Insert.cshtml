@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+}
+<hr>
+<h1>INSERTING INTO EMPLOYEE TABLE</h1>
+ @void insertvalues(){ Response.Write("INSERTED SUCCESSFULLY");}
+
+
+
+<input type="text" id="empid" placeholder="enter id" />
+<br />
+<input type="text" id="empname" placeholder="enter name" />
+<br />
+<input type="text" id="empsal" placeholder="enter salary" />
+<br />
+<input type="text" id="emprole" placeholder="enter role" />
+<br />
+<input type="button" id="ibt" onclick="insertvalues()" value="insert" width="100px" height="50px" />

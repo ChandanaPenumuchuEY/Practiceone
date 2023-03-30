@@ -1,0 +1,13 @@
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.exe
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.deps.json
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.runtimeconfig.json
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.runtimeconfig.dev.json
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.dll
+C:\Users\labuser\source\repos\linqqueries\linqqueries\bin\Debug\netcoreapp3.1\linqqueries.pdb
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.AssemblyInfo.cs
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.dll
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.pdb
+C:\Users\labuser\source\repos\linqqueries\linqqueries\obj\Debug\netcoreapp3.1\linqqueries.genruntimeconfig.cache

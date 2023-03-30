@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\entityframeworkconsole.exe.config
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\entityframeworkconsole.exe
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\entityframeworkconsole.pdb
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\obj\Debug\entityframeworkconsole.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\obj\Debug\entityframeworkconsole.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\obj\Debug\entityframeworkconsole.csproj.CopyComplete
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\obj\Debug\entityframeworkconsole.exe
+C:\Users\labuser\source\repos\entityframeworkconsole\entityframeworkconsole\obj\Debug\entityframeworkconsole.pdb

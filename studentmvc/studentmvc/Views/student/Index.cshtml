@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.name = "CHANDANA MVC STUDENT DATABASE";
+}
+@model IEnumerable<studentmvc.Models.student>
+<h1 style="align-content:center;color:darkred">WELCOME TO EY STUDENT DATABASE</h1>
+<br >
+<h2>@ViewBag.name</h2>
+<br>
+<br>
+<h6>STUDENT DATA COUNT  :  @ViewBag.scount  </h6>
+<hr>
+<hr>
+@foreach(var s in ViewBag.sdetails)
+ {
+    <div>Student id : @s.sid<br>
+         Student name :@s.sname
+    <hr>
+    </div>
+ }
+

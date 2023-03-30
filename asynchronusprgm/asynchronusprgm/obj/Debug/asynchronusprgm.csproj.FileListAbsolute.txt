@@ -1,0 +1,7 @@
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\bin\Debug\asynchronusprgm.exe.config
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\bin\Debug\asynchronusprgm.exe
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\bin\Debug\asynchronusprgm.pdb
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\obj\Debug\asynchronusprgm.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\obj\Debug\asynchronusprgm.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\obj\Debug\asynchronusprgm.exe
+C:\Users\labuser\source\repos\asynchronusprgm\asynchronusprgm\obj\Debug\asynchronusprgm.pdb

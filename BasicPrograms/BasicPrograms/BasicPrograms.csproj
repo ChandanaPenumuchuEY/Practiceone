@@ -71,6 +71,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstractclass.cs" />
+    <Compile Include="accessspecifier.cs" />
     <Compile Include="Addstudent.cs" />
     <Compile Include="arrays.cs" />
     <Compile Include="arraysum.cs" />
@@ -80,25 +82,37 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="constructors.cs" />
+    <Compile Include="copyconstructor.cs" />
     <Compile Include="day5.cs" />
+    <Compile Include="delegatess.cs" />
     <Compile Include="doapp2.cs" />
     <Compile Include="dynamiccprgm.cs" />
+    <Compile Include="enumkey.cs" />
+    <Compile Include="explicitinterface.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="filehandlingg.cs" />
     <Compile Include="genericclass.cs" />
     <Compile Include="genericpredefinedfunctions.cs" />
+    <Compile Include="getset.cs" />
     <Compile Include="gotolabel.cs" />
+    <Compile Include="indexors.cs" />
     <Compile Include="isas.cs" />
     <Compile Include="loop1.cs" />
     <Compile Include="namespaaceclass.cs" />
     <Compile Include="nongenerichashtable.cs" />
     <Compile Include="nongenericsortedlist.cs" />
     <Compile Include="objectas.cs" />
+    <Compile Include="ooopsc.cs" />
     <Compile Include="Oopsconcepts.cs" />
+    <Compile Include="oopssconcepts1.cs" />
+    <Compile Include="operatoroverloading.cs" />
+    <Compile Include="overloadinggg.cs" />
+    <Compile Include="overriding.cs" />
     <Compile Include="palindrome.cs" />
     <Compile Include="practicee5.cs" />
     <Compile Include="practiceeeee.cs" />
     <Compile Include="practicefile.cs" />
+    <Compile Include="privateconstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structureclass.cs" />
