@@ -1,0 +1,16 @@
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\migrationconsole.exe.config
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\migrationconsole.exe
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\migrationconsole.pdb
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.csproj.CopyComplete
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.exe
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.pdb
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.Migrations.InitialCreate.resources
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.Migrations.Migrationforroleinemp.resources
+C:\Users\labuser\source\repos\migrationconsole\migrationconsole\obj\Debug\migrationconsole.Migrations.migrationforsalinemp.resources
